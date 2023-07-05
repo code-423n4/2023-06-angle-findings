@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Lambda",
+  "risk": "2",
+  "title": "User can brick collateralization ratio calculation by donating a small amount",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/9"
+}
