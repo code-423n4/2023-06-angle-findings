@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Lambda",
+  "risk": "3",
+  "title": "Reentrancy in `Redeemer._redeem` allows redemptions with wrong collateralization ratio",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/6"
+}
