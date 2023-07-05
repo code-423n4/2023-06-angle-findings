@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Lambda",
+  "risk": "2",
+  "title": "User may get less tokens than expected when collateral list order changes",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/8"
+}
