@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "IF RETURNED DECIMAL VALUE IS ZERO, IT COULD BREAK THE FUNCTIONING OF THE PROTOCOL",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/48"
+}
