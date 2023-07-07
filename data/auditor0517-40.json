@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "auditor0517",
+  "risk": "2",
+  "title": "LibHelpers.piecewiseLinear will revert when the value is less than the first element of the array",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/40"
+}
