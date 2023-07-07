@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Jeiwan",
+  "risk": "3",
+  "title": "Poor detection of disputed trees allows claiming tokens from a disputed tree",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/10"
+}
