@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "auditor0517",
+  "risk": "2",
+  "title": "The merkle tree might be revoked again after being used to claim rewards.",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/26"
+}
