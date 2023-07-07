@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "CRITICAL UPGRADES IN THE DIAMOND PROXY COULD BE MISSED DUE TO INVALID ACTIONS PASSED IN",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/22"
+}
