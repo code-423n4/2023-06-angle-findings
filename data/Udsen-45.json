@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "`updateTree` CAN BE DoS BY A MAILCIOUS USER IF THE `disputeAmount` IS UNINITIALIZED",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/45"
+}
