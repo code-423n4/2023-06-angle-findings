@@ -1,0 +1,8 @@
+{
+  "contest": 255,
+  "handle": "Udsen",
+  "risk": "3",
+  "title": "`Redeemer.redeem` FUNCTION COULD REVERT DUE TO ARRAY LENGTH MISMATCH IN THE `minAmountOuts` ARRAY",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2023-06-angle-findings/issues/19"
+}
